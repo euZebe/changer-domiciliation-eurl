@@ -1,7 +1,28 @@
 # transfert de siège social
 
-## notes
+## contexte
 Cette procédure concerne un changement de domiciliation pour une EURL (SARL unipersonnelle). 
+
+## coût
+Le changement de domiciliation varie selon que vous changez de département ou non. Dans le premier cas, il faudra publier une annonce dans un journal d'annonce légale (JAL) dans les départements de départ et d'arrivée.
+
+Dans mon cas, de la Haute-Garonne vers la Charente maritime:
+- 2,80€ de signature électronique
+- 102€ pour l'annonce dans le JAL de Charente maritime (j'avais choisi Le Parisien web ; le tarif dépend peut-être du journal choisi)
+- 80€ pour l'annonce dans le JAL de Hante-Garonne (Le Parisien web)
+- 126,84€ de frais de procédure
+
+Comme j'ai essuyé un premier refus, j'ai du compléter mon dossier, ce qui a rajouté:
+- 2,80€ de signature électronique
+- 3,37€ de retraitement de mon dossier
+
+Dans le cas de mon déménagement avec changement de département, le coût total était de 330€ environ.
+
+Dans le cas d'un déménagement au sein d'un même département, le coût total devrait avoisiner les 230€.
+
+## alternatives
+la procédure peut être réalisée par des votre expert.e-comptable ou des sociétés spécialisées ; j'avais fait établir des devis, entre 300€ et 600€ hors frais légaux, soit 630€ à 930€ tout compris avec changement de département, 530€ à 830€ tout compris sans changer de département.
+
 
 ## procédure
 
@@ -21,3 +42,7 @@ Attention, ce cadre 19A est à remplir 2 fois puisque le document M2 est en 2 ex
 - Valider, payer les quelques euros de procédure
 
 La procédure peut prendre un mois. Elle coûte environ 320€ (environ 2x100€ pour les publications dans les JAL + 100€ de procédure + frais de signature électronique)
+
+## notes
+- N'hésitez pas à contacter le greffe de votre département (d'arrivée, dans le cas d'un changement de département), par téléphone si vous y arrivez, mais plus probablement par email. Ce sont eux qui réceptionneront votre demande de transfert, et seront donc les plus qualifiés pour répondre à vos questions.
+- Si, malgré tout, votre demande de transfert était refusée pour pièces invalides ou manquantes (vous obtiendrez alors une liste précise des éléments manquants), reprendre la procédure ne vous coûtera que quelques euros (2.80€ dans mon cas pour la signature électronique, et 3.37€ de retraitement de dossier).
